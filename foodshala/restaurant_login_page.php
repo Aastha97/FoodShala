@@ -15,6 +15,17 @@
 		background-color: #ccbaaa;
 	}
 
+	.button2 {
+		background-color:orange ; 
+		color: black; 
+		margin:3% 0% 0% 33.5%;
+		border: 2px solid #e7e7e7;
+	}
+
+	.button2:hover {
+		background-color:red;
+		color: white;
+	}
 </style>
 </head>
 <body>
