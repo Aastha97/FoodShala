@@ -15,19 +15,6 @@
     background-color: #ccbaaa;
   }
 
-  .button2 {
-    background-color:#41aaa2 ; 
-    color: black; 
-    margin:3% 0% 0% 33.5%;
-    border: 2px solid #e7e7e7;
-  }
-
-  .button2:hover {
-    background-color: #008CBA;
-    color: white;
-  }
-
-
 </style>
 </head>
 <body>
